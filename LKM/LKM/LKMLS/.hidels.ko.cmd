@@ -1,0 +1,1 @@
+cmd_/home/byttohorizon/LKM/LKMLS/hidels.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/byttohorizon/LKM/LKMLS/hidels.ko /home/byttohorizon/LKM/LKMLS/hidels.o /home/byttohorizon/LKM/LKMLS/hidels.mod.o

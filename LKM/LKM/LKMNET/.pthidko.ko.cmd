@@ -1,0 +1,1 @@
+cmd_/home/byttohorizon/LKM/LKMNET/pthidko.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/byttohorizon/LKM/LKMNET/pthidko.ko /home/byttohorizon/LKM/LKMNET/pthidko.o /home/byttohorizon/LKM/LKMNET/pthidko.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/byttohorizon/LKM/LKMPS/hideps.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/byttohorizon/LKM/LKMPS/hideps.ko /home/byttohorizon/LKM/LKMPS/hideps.o /home/byttohorizon/LKM/LKMPS/hideps.mod.o

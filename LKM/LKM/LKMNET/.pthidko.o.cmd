@@ -1,0 +1,1 @@
+cmd_/home/byttohorizon/LKM/LKMNET/pthidko.o := ld -m elf_x86_64   -r -o /home/byttohorizon/LKM/LKMNET/pthidko.o /home/byttohorizon/LKM/LKMNET/pthid.o /home/byttohorizon/LKM/LKMNET/zeroevil/zeroevil.o 
